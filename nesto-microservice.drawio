@@ -1,1 +1,146 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T18:37:16.695Z" agent="5.0 (X11)" version="15.0.6" etag="CU0HsKyyVWM-ab7JNQC0" type="github"><diagram id="RQTpZrV_3dNGmgOiUjFt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-15T19:03:05.105Z" agent="5.0 (X11)" etag="UOjLuz_7-hedK_-vh1Bg" version="15.0.6" type="github">
+  <diagram id="RQTpZrV_3dNGmgOiUjFt" name="Page-1">
+    <mxGraphModel dx="1957" dy="1304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-37" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Existing Architecture&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="730" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S8abGQb_4WX1yg5Xlo2L-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="412" y="240" />
+              <mxPoint x="412" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="105" width="250" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="601" y="105" width="140" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Monolithic Server&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Database&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-5" value="&lt;div&gt;Code - SAP Operations &lt;br&gt;&lt;/div&gt;&lt;div&gt;Management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-8" value="Code - Catalog &amp;amp; Category Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="221.5" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-9" value="Code - Cart &amp;amp; Order Place Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-10" value="Code - Show products ordered by a user etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-13" value="Sap Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-14" value="&lt;div&gt;Code - User Sign Up&lt;/div&gt;&lt;div&gt; Management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-16" value="User Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="191.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-17" value="Products Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="231.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-18" value="Orders Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S8abGQb_4WX1yg5Xlo2L-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="537" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="507" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-20" value="&lt;div&gt;Code - SAP Operations &lt;br&gt;&lt;/div&gt;&lt;div&gt;Management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="517" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Service A&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="527" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="642" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S8abGQb_4WX1yg5Xlo2L-25" target="S8abGQb_4WX1yg5Xlo2L-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-25" value="&lt;div&gt;Code - SAP Operations &lt;br&gt;&lt;/div&gt;&lt;div&gt;Management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="652" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Service B&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="662" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S8abGQb_4WX1yg5Xlo2L-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="804.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="774.5" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-28" value="&lt;div&gt;Code - SAP Operations &lt;br&gt;&lt;/div&gt;&lt;div&gt;Management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="784.5" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-29" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Service C&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="794.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S8abGQb_4WX1yg5Xlo2L-30" target="S8abGQb_4WX1yg5Xlo2L-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="927" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-31" value="&lt;div&gt;Code - SAP Operations &lt;br&gt;&lt;/div&gt;&lt;div&gt;Management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="937" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Service D&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="947" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="1057" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-34" value="&lt;div&gt;Code - SAP Operations &lt;br&gt;&lt;/div&gt;&lt;div&gt;Management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="1067" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Service E&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="88" y="1077" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-38" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="642" y="477" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-39" value="Sap Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="522" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-40" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="639" y="612" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-41" value="Sap Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="658" y="657" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-42" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="641" y="752" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-43" value="Sap Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="797" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-44" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="638" y="897" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="S8abGQb_4WX1yg5Xlo2L-45" value="Sap Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657" y="942" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
